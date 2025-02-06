@@ -57,7 +57,7 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-##DEVELOPED BY 
+## DEVELOPED BY 
     Ahmed Ayman Al-Maghawri
     Omar Baligh Hamdy
 ## Security Vulnerabilities
